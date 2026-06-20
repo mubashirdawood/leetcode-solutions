@@ -27,4 +27,8 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0027-remove-element) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
