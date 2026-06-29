@@ -12,6 +12,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0027-remove-element](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -21,6 +22,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -41,6 +43,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | ------- |
 | [0007-reverse-integer](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Linked List
 |  |
@@ -58,6 +61,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,9 +69,14 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
