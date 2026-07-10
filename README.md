@@ -33,6 +33,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0344-reverse-string) |
 | [3794-reverse-string-prefix](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Trie
