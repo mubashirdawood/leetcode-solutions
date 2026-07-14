@@ -35,6 +35,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0014-longest-common-prefix](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0344-reverse-string) |
 | [3794-reverse-string-prefix](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
@@ -59,6 +60,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0007-reverse-integer](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3516-find-closest-person](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3516-find-closest-person) |
@@ -73,6 +75,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -99,6 +102,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
 ## Greedy
