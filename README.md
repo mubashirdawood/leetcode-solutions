@@ -17,6 +17,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0561-array-partition) |
+| [0704-binary-search](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -84,6 +85,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | ------- |
 | [0035-search-insert-position](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
