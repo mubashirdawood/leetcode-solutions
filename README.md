@@ -26,6 +26,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [1572-matrix-diagonal-sum](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -82,6 +83,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | ------- |
 | [0067-add-binary](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
@@ -100,6 +102,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -127,4 +130,9 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
