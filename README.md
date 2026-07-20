@@ -22,6 +22,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -34,6 +35,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | ------- |
 | [0001-two-sum](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -69,6 +71,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0067-add-binary](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3516-find-closest-person](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3516-find-closest-person) |
 ## Linked List
 |  |
@@ -122,6 +125,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0561-array-partition) |
+| [1512-number-of-good-pairs](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## String Matching
 |  |
 | ------- |
