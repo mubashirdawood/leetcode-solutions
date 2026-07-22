@@ -45,6 +45,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0067-add-binary](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0709-to-lower-case](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [3794-reverse-string-prefix](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Trie
