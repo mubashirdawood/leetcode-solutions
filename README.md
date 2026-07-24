@@ -25,6 +25,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [1512-number-of-good-pairs](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1816-truncate-sentence](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -47,6 +48,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0344-reverse-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1528-shuffle-string) |
+| [1816-truncate-sentence](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [3794-reverse-string-prefix](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Trie
 |  |
