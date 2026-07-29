@@ -40,6 +40,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0001-two-sum](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [1528-shuffle-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Trie
 |  |
