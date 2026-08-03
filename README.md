@@ -84,6 +84,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0628-maximum-product-of-three-numbers](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2469-convert-the-temperature](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [3516-find-closest-person](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3516-find-closest-person) |
 ## Linked List
@@ -120,6 +121,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0561-array-partition](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Prefix Sum
 |  |
@@ -136,6 +138,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0561-array-partition) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Counting Sort
 |  |
 | ------- |
