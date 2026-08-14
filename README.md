@@ -44,6 +44,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
@@ -61,6 +62,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [2000-reverse-prefix-of-word](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Trie
@@ -184,4 +186,8 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
