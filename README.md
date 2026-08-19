@@ -42,6 +42,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -51,6 +52,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0058-length-of-last-word) |
@@ -90,6 +92,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | ------- |
 | [0007-reverse-integer](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
