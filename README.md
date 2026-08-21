@@ -71,6 +71,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
+| [3884-first-matching-character-from-both-ends](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Trie
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0977-squares-of-a-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
+| [3884-first-matching-character-from-both-ends](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Math
 |  |
 | ------- |
