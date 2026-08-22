@@ -61,6 +61,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0067-add-binary](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -85,6 +86,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0125-valid-palindrome](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
