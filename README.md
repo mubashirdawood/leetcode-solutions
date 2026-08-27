@@ -67,6 +67,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0557-reverse-words-in-a-string-iii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1528-shuffle-string) |
+| [1768-merge-strings-alternately](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -96,6 +97,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0557-reverse-words-in-a-string-iii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
