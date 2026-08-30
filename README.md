@@ -33,6 +33,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [1528-shuffle-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [1816-truncate-sentence](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -177,6 +178,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0136-single-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Greedy
 |  |
