@@ -13,6 +13,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0035-search-insert-position](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -236,4 +237,20 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
