@@ -18,6 +18,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -54,6 +55,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0001-two-sum](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -174,6 +176,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
