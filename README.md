@@ -18,6 +18,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
@@ -59,6 +60,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0013-roman-to-integer](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
@@ -137,6 +139,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0013-roman-to-integer](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0067-add-binary) |
+| [0149-max-points-on-a-line](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -292,4 +295,16 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
