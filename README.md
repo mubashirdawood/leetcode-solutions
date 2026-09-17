@@ -38,6 +38,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [1512-number-of-good-pairs](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [1816-truncate-sentence](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1816-truncate-sentence) |
@@ -205,6 +206,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0628-maximum-product-of-three-numbers](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
