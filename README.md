@@ -53,6 +53,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [2553-separate-the-digits-in-an-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
@@ -250,6 +251,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -317,4 +319,8 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
