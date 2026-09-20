@@ -53,6 +53,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [2553-separate-the-digits-in-an-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -158,6 +159,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2469-convert-the-temperature) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3516-find-closest-person](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3516-find-closest-person) |
 ## Linked List
 |  |
@@ -180,6 +182,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -257,6 +260,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
 | ------- |
