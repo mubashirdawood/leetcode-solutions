@@ -55,6 +55,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
