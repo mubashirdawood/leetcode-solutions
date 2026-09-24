@@ -32,6 +32,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0628-maximum-product-of-three-numbers](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -231,6 +232,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0067-add-binary](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
