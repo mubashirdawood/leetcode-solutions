@@ -295,6 +295,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -303,6 +304,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -332,4 +334,12 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
