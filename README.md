@@ -152,6 +152,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0013-roman-to-integer](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
@@ -191,6 +192,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -342,4 +344,8 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0100-same-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
