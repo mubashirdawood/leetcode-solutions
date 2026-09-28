@@ -158,6 +158,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0149-max-points-on-a-line](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -236,6 +237,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0067-add-binary](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1720-decode-xored-array) |
