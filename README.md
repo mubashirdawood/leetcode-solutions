@@ -126,6 +126,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -178,6 +179,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
