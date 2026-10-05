@@ -18,6 +18,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0088-merge-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -71,6 +72,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0013-roman-to-integer](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -371,4 +373,8 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
