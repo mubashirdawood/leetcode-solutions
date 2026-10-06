@@ -9,6 +9,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0001-two-sum](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0035-search-insert-position) |
@@ -130,6 +131,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0027-remove-element) |
@@ -222,6 +224,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0217-contains-duplicate) |
