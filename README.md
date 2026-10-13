@@ -64,6 +64,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3502-minimum-cost-to-reach-every-position) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -251,6 +252,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [2500-delete-greatest-value-in-each-row](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -275,6 +277,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0011-container-with-most-water](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0561-array-partition) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
 | ------- |
