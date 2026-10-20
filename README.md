@@ -322,6 +322,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Backtracking
@@ -351,6 +352,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -361,6 +363,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -395,6 +398,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
