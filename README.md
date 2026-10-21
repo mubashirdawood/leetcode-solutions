@@ -132,6 +132,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Trie
 |  |
