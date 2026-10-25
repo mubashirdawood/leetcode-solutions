@@ -40,6 +40,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0950-reveal-cards-in-increasing-order](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1051-height-checker](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1051-height-checker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -266,6 +267,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0628-maximum-product-of-three-numbers](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -307,6 +309,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0347-top-k-frequent-elements](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1051-height-checker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -441,4 +444,8 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
