@@ -118,6 +118,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0125-valid-palindrome](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0306-additive-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -342,6 +343,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 ## Backtracking
 |  |
 | ------- |
+| [0306-additive-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0306-additive-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
