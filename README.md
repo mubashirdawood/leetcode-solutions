@@ -18,6 +18,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0035-search-insert-position](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0059-spiral-matrix-ii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -226,6 +227,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0067-add-binary) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1929-concatenation-of-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -326,6 +328,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
