@@ -214,6 +214,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
