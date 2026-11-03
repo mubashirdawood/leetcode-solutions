@@ -71,6 +71,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -207,6 +208,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [2469-convert-the-temperature](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3516-find-closest-person](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3516-find-closest-person) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Linked List
 |  |
 | ------- |
