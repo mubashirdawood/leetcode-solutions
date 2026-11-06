@@ -196,6 +196,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0066-plus-one](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0231-power-of-two) |
@@ -260,6 +261,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -461,6 +463,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Bubble Sort
 |  |
