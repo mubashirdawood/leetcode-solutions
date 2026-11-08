@@ -358,6 +358,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0077-combinations) |
 | [0306-additive-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0306-additive-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
