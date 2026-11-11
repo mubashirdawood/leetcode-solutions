@@ -388,6 +388,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0094-binary-tree-inorder-traversal](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0112-path-sum) |
 ## Binary Search Tree
@@ -400,6 +401,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0094-binary-tree-inorder-traversal](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0112-path-sum) |
 ## Floyd's Cycle Finding Algorithm
@@ -436,12 +438,14 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0094-binary-tree-inorder-traversal](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0112-path-sum) |
 ## Newton's Method
 |  |
