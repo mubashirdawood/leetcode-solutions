@@ -122,6 +122,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0058-length-of-last-word](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0306-additive-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0306-additive-number) |
@@ -199,6 +200,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0069-sqrtx](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0171-excel-sheet-column-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0268-missing-number) |
