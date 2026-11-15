@@ -23,6 +23,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0075-sort-colors](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -267,6 +268,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0509-fibonacci-number) |
