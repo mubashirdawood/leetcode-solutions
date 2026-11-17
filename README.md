@@ -17,6 +17,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0033-search-in-rotated-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0066-plus-one) |
@@ -370,6 +371,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0077-combinations) |
 | [0306-additive-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0306-additive-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
