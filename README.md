@@ -76,6 +76,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -224,6 +225,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [2235-add-two-integers](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3516-find-closest-person](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Linked List
@@ -390,12 +392,14 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2367-number-of-arithmetic-triplets](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -504,4 +508,8 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | ------- |
 | [0075-sort-colors](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
