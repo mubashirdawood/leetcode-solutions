@@ -137,6 +137,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0345-reverse-vowels-of-a-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/mubashirdawood/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -184,6 +185,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0345-reverse-vowels-of-a-string](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -281,6 +283,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0118-pascals-triangle](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
