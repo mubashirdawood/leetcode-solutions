@@ -83,6 +83,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [3898-find-the-degree-of-each-vertex](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -285,6 +286,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -344,6 +346,7 @@ Clean, optimized, and well-commented solutions to LeetCode DSA problems, organiz
 | [0561-array-partition](https://github.com/mubashirdawood/leetcode-solutions/tree/master/0561-array-partition) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mubashirdawood/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/mubashirdawood/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Counting Sort
 |  |
 | ------- |
